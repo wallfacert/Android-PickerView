@@ -90,6 +90,7 @@
 #### Android-PickerView 库使用示例：
 
 #### 1.添加Jcenter仓库 Gradle依赖：
+[![](https://jitpack.io/v/wallfacert/Android-PickerView.svg)](https://jitpack.io/#wallfacert/Android-PickerView)
 ```java
 implementation 'com.github.wallfacert.Android-PickerView:pickerview:4.1.9'
 ```
