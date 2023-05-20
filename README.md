@@ -91,7 +91,7 @@
 
 #### 1.添加Jcenter仓库 Gradle依赖：
 ```java
-compile 'com.contrarywind:Android-PickerView:4.1.9'
+implementation 'com.github.wallfacert.Android-PickerView:pickerview:4.1.9'
 ```
 或者
 
