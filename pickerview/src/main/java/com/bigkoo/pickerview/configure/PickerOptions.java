@@ -70,7 +70,7 @@ public class PickerOptions {
 
     public PickerOptions(int buildType) {
         if (buildType == TYPE_PICKER_OPTIONS) {
-            layoutRes = R.layout.pickerview_options;
+            layoutRes = R.layout.picker_view_options;
         } else {
             layoutRes = R.layout.picker_view_time;
         }
