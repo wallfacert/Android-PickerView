@@ -72,7 +72,7 @@ public class PickerOptions {
         if (buildType == TYPE_PICKER_OPTIONS) {
             layoutRes = R.layout.pickerview_options;
         } else {
-            layoutRes = R.layout.pickerview_time;
+            layoutRes = R.layout.picker_view_time;
         }
     }
 
